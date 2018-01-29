@@ -3,7 +3,7 @@
 				
 Tasks	Subtasks	Primary developer	Status	notes
 "develop id conventions (equipment, date, plot…)"			not started	
-develop directory organization		JS	not started	
+develop directory organization		JS	not started	"Equipment, site, and raw/processed folders"
 data import functions: field download -> directory upload				
 data processing functions: Treehuggers		JS	not started	
 data processing functions: FD chambers				
